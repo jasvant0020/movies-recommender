@@ -138,16 +138,16 @@ Machine Learning Concepts Used
 
 Project Structure
 
-movies_recommander/
-│
-├── notebook.ipynb
-├── tmdb_5000_movies/
-│   └── tmdb_5000_movies.csv
-│
-├── tmdb_5000_credits/
-│   └── tmdb_5000_credits.csv
-│
-└── README.md
+    movies_recommander/
+    │
+    ├── notebook.ipynb
+    ├── tmdb_5000_movies/
+    │   └── tmdb_5000_movies.csv
+    │
+    ├── tmdb_5000_credits/
+    │   └── tmdb_5000_credits.csv
+    │
+    └── README.md
 
 Future Improvements
 
