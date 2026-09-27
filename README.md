@@ -1,4 +1,4 @@
-Movie Recommendation System
+# Movie Recommendation System
 
 A content-based movie recommendation system built using Python and Machine Learning techniques. The system recommends movies based on similarities in their metadata such as overview, genres, keywords, cast, and director.
 
